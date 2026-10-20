@@ -1,0 +1,22 @@
+﻿{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "none",
+    "rootDir": "src",
+    "outDir": "dist",
+    "outFile": "dist/main.js",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "files": [
+    "src/Funcionario.ts",
+    "src/Contratado.ts",
+    "src/Freelancer.ts",
+    "src/Prato.ts",
+    "src/Entrega.ts",
+    "src/PratoRepository.ts",
+    "src/FuncionarioRepository.ts",
+    "src/EntregaRepository.ts",
+    "src/main.ts"
+  ]
+}
